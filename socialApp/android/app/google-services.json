@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325344604166",
+    "firebase_url": "https://instatest-2c670.firebaseio.com",
+    "project_id": "instatest-2c670",
+    "storage_bucket": "instatest-2c670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325344604166:android:6fbf41d5019c0527f5d387",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325344604166-8t7gq7f24vr8vm1nht89ojt4161qh0gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiX5Vxh_vQVsSvN5n6-gYIDmNfQ8Pe68U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325344604166-8t7gq7f24vr8vm1nht89ojt4161qh0gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
